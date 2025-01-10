@@ -1,0 +1,6 @@
+public static Calci{
+public static void main()
+{
+int a=5
+system.out.println("a is positive");
+}
